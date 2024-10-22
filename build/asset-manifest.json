@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.79164249.css",
+    "main.js": "/static/js/main.0c91b1f5.js",
+    "static/js/453.bcdfdc81.chunk.js": "/static/js/453.bcdfdc81.chunk.js",
+    "static/media/FlickGPTlogo.png": "/static/media/FlickGPTlogo.f1371d25e1a1dca33be0.png",
+    "index.html": "/index.html",
+    "main.79164249.css.map": "/static/css/main.79164249.css.map",
+    "main.0c91b1f5.js.map": "/static/js/main.0c91b1f5.js.map",
+    "453.bcdfdc81.chunk.js.map": "/static/js/453.bcdfdc81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79164249.css",
+    "static/js/main.0c91b1f5.js"
+  ]
+}
